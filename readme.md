@@ -7,7 +7,7 @@
 [![](https://img.shields.io/twitter/follow/moura_ricco?label=Follow&style=social)]
 
 
-### <img src="https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const henrique = {
