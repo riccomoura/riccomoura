@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Olá, Mundo! <span>&#x1f1e7;&#x1f1f7;</span>, I'm HENRIQUE M. DE MESQUITA
+## Olá, Mundo! :br:, I'm HENRIQUE M. DE MESQUITA
 ## Systems Analysis - almost graduated | Developer - early stage 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-AddMe-blue)](https://www.linkedin.com/in/mesquitahenrique/)
