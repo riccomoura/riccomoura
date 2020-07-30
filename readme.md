@@ -24,10 +24,10 @@ const henrique = {
 ```
 ---
 <p float="left">
-  <img src="https://i.ibb.co/3d41bQR/ezgif-com-resize-1.gif" width="170" height="100" />
-  <img src="https://i.ibb.co/X2VQY8G/ezgif-com-resize-2.gif" width="170" height="100" />
-  <img src="https://i.ibb.co/fxhYKFN/ushahidi.jpg" width="170" height="100" />
-  <img src="https://i.ibb.co/9GH180b/ezgif-com-resize-3.gif" width="170" height="100" />
-  <img src="https://i.ibb.co/przB0CD/ezgif-com-resize-4.gif" width="170" height="100" />
+  <a href="https://www.ibm.com/employment/inclusion/"><img src="https://i.ibb.co/3d41bQR/ezgif-com-resize-1.gif" width="170" height="100" />
+  <a href="https://catapult.lu/"><img src="https://i.ibb.co/X2VQY8G/ezgif-com-resize-2.gif" width="170" height="100" />
+  <a href="https://www.ushahidi.com/"><img src="https://i.ibb.co/fxhYKFN/ushahidi.jpg" width="170" height="100" />
+  <a href="https://women-in-tech.org/"><img src="https://i.ibb.co/9GH180b/ezgif-com-resize-3.gif" width="170" height="100" />
+  <a href="https://agenciafiep.com.br/tag/reatiba/"><img src="https://i.ibb.co/przB0CD/ezgif-com-resize-4.gif" width="170" height="100" />
 
 🔰 From [@riccomoura](https://github.com/riccomoura)
