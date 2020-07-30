@@ -4,7 +4,7 @@
 ## System Analysis Student - almost graduated | Developer - early stage 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-AddMe-blue)](https://www.linkedin.com/in/mesquitahenrique/)
-[![](https://img.shields.io/twitter/follow/moura_ricco?label=Follow&style=social)]
+[![](https://img.shields.io/twitter/follow/moura_ricco?label=Follow&style=social]
 
 
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> A little more about me...  
