@@ -22,7 +22,11 @@ const henrique = {
     architecture: ["Single page applications"],
 }
 ```
-### <img src="https://i.ibb.co/3d41bQR/ezgif-com-resize-1.gif" width="170" height="100">
-### <img src="https://i.ibb.co/X2VQY8G/ezgif-com-resize-2.gif" width="170" height="100">
 ---
+<p float="left">
+  <img src="https://i.ibb.co/3d41bQR/ezgif-com-resize-1.gif" width="170" height="100" />
+  <img src="https://i.ibb.co/X2VQY8G/ezgif-com-resize-2.gif" width="170" height="100" /> 
+</p>
+
+
 🔰 From [@riccomoura](https://github.com/riccomoura)
