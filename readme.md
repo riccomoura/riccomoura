@@ -12,7 +12,7 @@ About me ⤦
 ```javascript
 const henrique = {
     pronouns: "He" | "Him",
-    askMeAbout: ["audiophile", "development tools", "tech"],
+    askMeAbout: ["audiophile", "games", "development tools", "tech"],
     technologies:{
         backEnd: ["nodejs", "c#", "c++", "java"],
         fronEnd: ["html", "react", "javascript"],
