@@ -1,0 +1,29 @@
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+## Olá, Mundo! 🙏, I'm HENRIQUE M. DE MESQUITA
+## System Analysis Student - almost graduated | Developer - early stage 👨‍💻
+
+[![](https://img.shields.io/badge/LinkedIn-AddMe-blue)](https://www.linkedin.com/in/mesquitahenrique/)
+[![](https://img.shields.io/twitter/follow/moura_ricco?label=Follow&style=social)]
+
+
+### <img src="https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504" width="50"> A little more about me...  
+
+```javascript
+const henrique = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["audiophile", "development tools", "tech"],
+    technologies:{
+        backEnd: ["nodejs", "c#", "c++", "java"],
+        fronEnd: ["html", "react", "javascript"],
+        mobileApp: ["react native","angular"],
+        database: ["oracle","postgresql"],
+        single page applications: ["angular", "react"],
+        misc: ["Git", "GitFlow", "Scrum"]
+    },
+    architecture: ["Single page applications"],
+}
+```
+
+---
+⭐️ From [@riccomoura](https://github.com/riccomoura)
