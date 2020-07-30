@@ -29,5 +29,6 @@ const henrique = {
   <a href="https://www.ushahidi.com/"><img src="https://i.ibb.co/fxhYKFN/ushahidi.jpg" width="170" height="100" />
   <a href="https://women-in-tech.org/"><img src="https://i.ibb.co/9GH180b/ezgif-com-resize-3.gif" width="170" height="100" />
   <a href="https://agenciafiep.com.br/tag/reatiba/"><img src="https://i.ibb.co/przB0CD/ezgif-com-resize-4.gif" width="170" height="100" />
+  <a href="http://contatonucleo.com.br/"><img src="https://i.ibb.co/T10Y0F5/ezgif-com-resize-6.gif" width="370" height="100" /> 
 
 🔰 From [@riccomoura](https://github.com/riccomoura)
