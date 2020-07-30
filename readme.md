@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/xT77XOOBRKV3reH22k/giphy.gif" width="230">
 
 ## Hello, World! ⚜️, I'm HENRIQUE M. DE MESQUITA ♓
 ## Systems Analysis - almost graduated | Developer - early stage 👨‍💻
