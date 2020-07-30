@@ -7,7 +7,7 @@
 [![](https://img.shields.io/twitter/follow/moura_ricco?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=moura_ricco)
 
 
-### <img src="https://media.giphy.com/media/3oz8xKtYeaHDZ26IIo/giphy.gif" width="50"> About me.  
+### <img src="https://media.giphy.com/media/3oz8xKtYeaHDZ26IIo/giphy.gif" width="50"> About me ⤦  
 
 ```javascript
 const henrique = {
@@ -25,4 +25,4 @@ const henrique = {
 ```
 
 ---
-⭐️ From [@riccomoura](https://github.com/riccomoura)
+🔰 From [@riccomoura](https://github.com/riccomoura)
