@@ -22,6 +22,6 @@ const henrique = {
     architecture: ["Single page applications"],
 }
 ```
-### <img src="https://i.ibb.co/LRYSyHN/ezgif-com-resize-1.gif">
+### <img src="https://i.ibb.co/LRYSyHN/ezgif-com-resize-1.gif" width="170" height="100">
 ---
 🔰 From [@riccomoura](https://github.com/riccomoura)
