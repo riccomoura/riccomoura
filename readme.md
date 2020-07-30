@@ -6,7 +6,8 @@
 [![](https://img.shields.io/badge/AddMe-LinkedIn-blue)](https://www.linkedin.com/in/mesquitahenrique/)
 [![](https://img.shields.io/twitter/follow/moura_ricco?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=moura_ricco)
 
-### <img src="https://media.giphy.com/media/3oz8xKtYeaHDZ26IIo/giphy.gif" width="50"> About me ⤦  
+[comment]: <> (### <img src="https://media.giphy.com/media/3oz8xKtYeaHDZ26IIo/giphy.gif" width="50"> About me ⤦ )
+About me ⤦
 
 ```javascript
 const henrique = {
@@ -22,7 +23,8 @@ const henrique = {
     architecture: ["Single page applications"],
 }
 ```
----
+--- 
+What i support ⤦
 <p float="left">
   <a href="https://www.ibm.com/employment/inclusion/"><img src="https://i.ibb.co/3d41bQR/ezgif-com-resize-1.gif" width="170" height="100" />
   <a href="https://catapult.lu/"><img src="https://i.ibb.co/X2VQY8G/ezgif-com-resize-2.gif" width="170" height="100" />
