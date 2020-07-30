@@ -25,7 +25,7 @@ const henrique = {
 ```
 --- 
 What i support ⤦
-<p float="left">
+<p float="center">
   <a href="https://www.ibm.com/employment/inclusion/"><img src="https://i.ibb.co/3d41bQR/ezgif-com-resize-1.gif" width="170" height="100" />
   <a href="https://catapult.lu/"><img src="https://i.ibb.co/X2VQY8G/ezgif-com-resize-2.gif" width="170" height="100" />
   <a href="https://www.ushahidi.com/"><img src="https://i.ibb.co/fxhYKFN/ushahidi.jpg" width="170" height="100" />
