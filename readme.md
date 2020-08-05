@@ -15,9 +15,9 @@ const henrique = {
     askMeAbout: ["audiophile", "games", "development tools", "tech"],
     technologies:{
         backEnd: ["nodejs", "c#", "c++", "java"],
-        fronEnd: ["html", "react", "javascript"],
-        mobileApp: ["react native","angular"],
-        database: ["oracle","postgresql"],
+        fronEnd: ["html", "css", "react", "javascript"],
+        mobileApp: ["react native", "angular"],
+        database: ["oracle", "postgresql"],
         misc: ["Git", "GitFlow", "Scrum", "SAP ECC"]
     },
     architecture: ["Single page applications"],
