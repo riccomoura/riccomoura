@@ -1,4 +1,4 @@
-<img align='right' src="https://ibb.co/9v1wJfz"><img src="https://i.ibb.co/dcVbS31/octocat.png">
+<img align='right' src="https://i.ibb.co/dcVbS31/octocat.png" width="230">
 
 ### Hello, World! ⚜️, I'm HENRIQUE M. DE MESQUITA ♓
 ### Systems Analysis - almost graduated | Developer - early stage 👨‍💻
