@@ -14,10 +14,10 @@ const henrique = {
     pronouns: "He" | "Him",
     askMeAbout: ["audiophile", "games", "development tools", "tech"],
     technologies:{
-        backEnd: ["nodejs", "c#", "c++", "java"],
+        backEnd: ["node", "c++", "java"],
         fronEnd: ["html", "css", "react", "javascript"],
         mobileApp: ["react native", "angular"],
-        database: ["oracle", "postgresql"],
+        database: ["oracle"],
         misc: ["Git", "GitFlow", "Scrum", "SAP ECC"]
     },
     architecture: ["Single page applications"],
