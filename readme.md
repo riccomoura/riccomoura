@@ -17,7 +17,7 @@ const henrique = {
         mobileApp: ["react native", "angular"],
         database: ["oracle"],
         misc: ["git", "gitflow", "scrum", "sap ecc"],
-        bootcamps: ["nextlevelweek2"]
+        marathons: ["nextlevelweek2"]
     },
     architecture: ["Single page applications"],
 }
