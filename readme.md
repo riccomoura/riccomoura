@@ -16,8 +16,8 @@ const henrique = {
         fronEnd: ["html", "css", "react", "javascript", "bootstrap"],
         mobileApp: ["react native", "angular"],
         database: ["oracle"],
-        misc: ["Git", "GitFlow", "Scrum", "SAP ECC"],
-        bootcamps: ["NextLevelWeek2"]
+        misc: ["git", "gitflow", "scrum", "sap ecc"],
+        bootcamps: ["nextlevelweek2"]
     },
     architecture: ["Single page applications"],
 }
