@@ -22,7 +22,7 @@ const henrique = {
     architecture: ["Single page applications"],
 }
 ```
-🚀Send me a friend invitation on [Rocketseat](https://app.rocketseat.com.br/me/henrique-moura-de-mesquita-1567131628)
+🚀Send me an invitation on [Rocketseat](https://app.rocketseat.com.br/me/henrique-moura-de-mesquita-1567131628)
 --- 
 What i support ⤦
 <p float="center">
