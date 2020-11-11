@@ -33,7 +33,5 @@ What i support ⤦
   <a href="http://contatonucleo.com.br/"><img src="https://i.ibb.co/T10Y0F5/ezgif-com-resize-6.gif" width="370" height="100" /> 
 
 ---
-
 🔰 From [@riccomoura](https://github.com/riccomoura)
----
 🚀Send me a friend invitation on [Rocketseat](https://app.rocketseat.com.br/me/henrique-moura-de-mesquita-1567131628)
