@@ -32,5 +32,8 @@ What i support ⤦
   <a href="https://agenciafiep.com.br/tag/reatiba/"><img src="https://i.ibb.co/przB0CD/ezgif-com-resize-4.gif" width="170" height="100" />
   <a href="http://contatonucleo.com.br/"><img src="https://i.ibb.co/T10Y0F5/ezgif-com-resize-6.gif" width="370" height="100" /> 
 
+---
+
 🔰 From [@riccomoura](https://github.com/riccomoura)
+---
 🚀Send me a friend invitation on [Rocketseat](https://app.rocketseat.com.br/me/henrique-moura-de-mesquita-1567131628)
