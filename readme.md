@@ -10,7 +10,7 @@ About me ⤦
 ```javascript
 const henrique = {
     pronouns: "He" | "Him",
-    askMeAbout: ["audiophile", "games", "development tools", "tech"],
+    askMeAbout: ["audiophile", "motorcycles", "development tools", "branding concepts"],
     technologies:{
         backEnd: ["node", "c++", "java"],
         fronEnd: ["html", "css", "react", "javascript", "bootstrap"],
