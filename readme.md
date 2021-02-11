@@ -12,12 +12,12 @@ const henrique = {
     pronouns: "He" | "Him",
     askMeAbout: ["audiophile", "motorcycles", "development tools", "branding concepts"],
     technologies:{
-        backEnd: ["node", "c++", "java"],
+        backEnd: ["node", "c++", "java", "python"],
         fronEnd: ["html", "css", "react", "javascript", "bootstrap"],
-        mobileApp: ["react native", "angular"],
+        mobile: ["react native", "angular"],
         database: ["oracle"],
         misc: ["git", "gitflow", "scrum", "sap ecc"],
-        marathons: ["nextlevelweek2"]
+        marathons: ["nextlevelweek2", "IntensivoPythonHashtagTreinamentos"]
     },
     architecture: ["Single page applications"],
 }
