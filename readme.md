@@ -1,5 +1,5 @@
 ### Hello, World! ⚜️, I'm HENRIQUE M. DE MESQUITA ♓
-### Systems Analysist - almost graduated | Developer - early stage 👨‍💻
+### Student - almost graduated | Python Developer - early stage 👨‍💻
 
 [![](https://img.shields.io/badge/AddMe-LinkedIn-blue)](https://www.linkedin.com/in/mesquitahenrique/)
 [![](https://img.shields.io/twitter/follow/moura_ricco?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=moura_ricco)
