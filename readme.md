@@ -13,13 +13,12 @@ const henrique = {
     askMeAbout: ["audiophile", "motorcycles", "development tools", "branding concepts"],
     technologies:{
         backEnd: ["node", "c++", "java", "python"],
-        fronEnd: ["html", "css", "react", "javascript", "bootstrap"],
-        mobile: ["react native", "angular"],
-        database: ["oracle"],
-        misc: ["git", "gitflow", "scrum", "sap ecc"],
+        fronEnd: ["html", "css", "javascript"],
+        database: ["oracle", "SQLite"],
+        misc: ["git", "scrum", "pandas", "histograms", "dashboards"],
         marathons: ["nextlevelweek2", "IntensivoPythonHashtagTreinamentos"]
     },
-    architecture: ["Single page applications"],
+    peopleWhoInspireMe: ["Leonhard Euler", "Elon Musk", "Von Mises", "Adam Smith", "Milton Friedman"],
 }
 ```
 🚀Send me an invitation on [Rocketseat](https://app.rocketseat.com.br/me/henrique-moura-de-mesquita-1567131628)
