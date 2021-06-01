@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henrique Moura</h1>
-<h3 align="center">A passionate python dev with some plus tools from Brazil</h3>
+<h3 align="center">A passionate python dev with some plus tools. Born and raised in Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccomoura&label=Profile%20views&color=0e75b6&style=flat" alt="riccomoura" /> </p>
 
