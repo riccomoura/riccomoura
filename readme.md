@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://file.io/J6tGw3TGjvcg](https://file.io/J6tGw3TGjvcg)
 
-- ⚡ Fun fact **I have a infantile taste, no drugs and no alcohol.**
+- ⚡ Fun fact **I have a infantile taste, no drugs and no alcohol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
