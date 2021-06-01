@@ -27,9 +27,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riccomoura&show_icons=true&locale=en&layout=compact" alt="riccomoura" /></p>
 
-```
+
 🚀Send me an invitation on [Rocketseat](https://app.rocketseat.com.br/me/henrique-moura-de-mesquita-1567131628)
---- 
+
 What i support ⤦
 <p float="center">
   <a href="https://www.ibm.com/employment/inclusion/"><img src="https://i.ibb.co/3d41bQR/ezgif-com-resize-1.gif" width="170" height="100" />
@@ -39,6 +39,6 @@ What i support ⤦
   <a href="https://agenciafiep.com.br/tag/reatiba/"><img src="https://i.ibb.co/przB0CD/ezgif-com-resize-4.gif" width="170" height="100" />
   <a href="http://contatonucleo.com.br/"><img src="https://i.ibb.co/T10Y0F5/ezgif-com-resize-6.gif" width="370" height="100" /> 
 
----
+
 🔰 From [@riccomoura](https://github.com/riccomoura)
 
