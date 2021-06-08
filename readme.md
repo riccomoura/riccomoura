@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python advanced features, microframework Flask and pyTest unity test tool**
 
-- 👨‍💻 All of my projects are available at [http://github.com/riccomoura](http://github.com/riccomoura)
+- 👨‍💻 All of my projects are available at [https://github.com/riccomoura?tab=repositories](http://github.com/riccomoura)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mesquitahenrique/detail/recent-activity/](https://www.linkedin.com/in/mesquitahenrique/detail/recent-activity/)
 
