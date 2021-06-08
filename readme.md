@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://file.io/J6tGw3TGjvcg](https://file.io/J6tGw3TGjvcg)
 
-- ⚡ Fun fact **When i sleep my dreams are blockbusters and deserves daily Oscar prizes**
+- ⚡ Fun fact **Brazilian by nature, South-African by soul**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
