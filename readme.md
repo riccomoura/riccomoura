@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccomoura&label=Profile%20views&color=0e75b6&style=flat" alt="riccomoura" /> </p>
 
-- 🌱 I’m currently learning **Python advanced features, microframework Flask and pyTest unity test tool**
+- 🌱 I’m currently learning **Python advanced features, pandas, matplotlib, sklearn and numpy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/riccomoura?tab=repositories](http://github.com/riccomoura)
 
