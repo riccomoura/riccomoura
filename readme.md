@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henrique Moura</h1>
-<h3 align="center">A passionate python dev with some plus tools in early stage.</h3>
+<h3 align="center">A passionate Data Engineer with some plus tools in early stage.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccomoura&label=Profile%20views&color=0e75b6&style=flat" alt="riccomoura" /> </p>
 
-- 🌱 I’m currently learning **Python advanced features, Microsoft Azure Fundamentals and Data Factory.**
+- 🌱 I’m currently learning **Storage Accounts, Databricks, Data Factory and Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/riccomoura?tab=repositories](http://github.com/riccomoura)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://file.io/J6tGw3TGjvcg](https://file.io/J6tGw3TGjvcg)
 
-- ⚡ Fun fact **Brazilian by nature, South-African by soul**
+- ⚡ Microsoft Certified - Azure Data Fundamentals (DP-900)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
