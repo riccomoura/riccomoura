@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://file.io/J6tGw3TGjvcg](https://file.io/J6tGw3TGjvcg)
 
-- ⚡ Microsoft Certified - Azure Data Fundamentals (DP-900)**
+- ⚡ Microsoft Certified - Azure Data Fundamentals (DP-900)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
