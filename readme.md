@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SPACE framework, DevOps concepts, DevSecOps concepts, Power Automate, Power Apps and improving skills on Azure Data Factory**
 
-- 👨‍💻 All of my projects are available at [http://github.com/riccomoura](http://github.com/riccomoura)
+- 👨‍💻 All of my projects are available at [http://github.com/riccomoura](https://github.com/riccomoura?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mesquitahenrique/detail/recent-activity/](https://www.linkedin.com/in/mesquitahenrique/detail/recent-activity/)
 
