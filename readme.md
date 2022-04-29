@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccomoura&label=Profile%20views&color=0e75b6&style=flat" alt="riccomoura" /> </p>
 
-- 🌱 I’m currently learning **Power Platform, DevOps concepts, DevSecOps concepts, Power Automate, studying for DP-203 and improving skills on Azure Data Factory**
+- 🌱 I’m currently learning **Power Platform, studying for DP-203, PL-900, PL-100 and many more**
 
 - 👨‍💻 All of my projects are available at [http://github.com/riccomoura](https://github.com/riccomoura?tab=repositories)
 
