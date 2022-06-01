@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [https://file.io/fB65wToHzn7X](https://file.io/fB65wToHzn7X)
 
 - ⚡ Microsoft Certified **Azure Data Fundamentals (DP-900)**
+- ⚡ Databricks Certified **Databricks Lakehouse Fundamentals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
