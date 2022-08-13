@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henrique Mesquita</h1>
-<h3 align="center">A data driven professional assigned to the role of Data Engineer</h3>
+<h3 align="center">A data driven professional assigned to the role of Requirements Analyst for RPA Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccomoura&label=Profile%20views&color=0e75b6&style=flat" alt="riccomoura" /> </p>
 
