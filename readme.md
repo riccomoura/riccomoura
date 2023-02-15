@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henrique Mesquita</h1>
-<h3 align="center">A data driven professional assigned to the role of Requirements Analyst for Automation Process Team</h3>
+<h3 align="center">A data driven professional assigned to the role of Requirements Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccomoura&label=Profile%20views&color=0e75b6&style=flat" alt="riccomoura" /> </p>
 
-- 🌱 I’m currently learning **Power Platform, and working as Requirements Analyst for RPA Team**
+- 🌱 I’m currently learning **Process Mining, and working as Requirements Analyst*
 
 - 👨‍💻 All of my projects are available at [http://github.com/riccomoura](https://github.com/riccomoura?tab=repositories)
 
