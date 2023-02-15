@@ -17,8 +17,8 @@
 
 - ⚡ Microsoft Certified **Azure Data Fundamentals (DP-900)**
 - ⚡ Databricks Certified **Databricks Lakehouse Fundamentals**
-- ⚡ Lean Six Sigma: Yellow Belt**
-- ⚡ Celonis: Process Mining From Theory to Execution**
+- ⚡ Lean Six Sigma: **Yellow Belt**
+- ⚡ Celonis: **Process Mining From Theory to Execution**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
