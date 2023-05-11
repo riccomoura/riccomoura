@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccomoura&label=Profile%20views&color=0e75b6&style=flat" alt="riccomoura" /> </p>
 
-- 🌱 I’m currently learning **Process Mining, and working as Requirements Analyst*
+- 🌱 I’m currently learning **Data Management and Data Literacy*
 
 - 👨‍💻 All of my projects are available at [http://github.com/riccomoura](https://github.com/riccomoura?tab=repositories)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **moura.henrique@outlook.com**
 
-- 📄 Know about my experiences [https://file.io/fB65wToHzn7X](https://file.io/fB65wToHzn7X)
+- 📄 Know about my experiences [https://file.io/fB65wToHzn7X](https://file.io/fB65wToHzn7X) - [DEPRECATED]
 
 - ⚡ Microsoft Certified **Azure Data Fundamentals (DP-900)**
 - ⚡ Databricks Certified **Databricks Lakehouse Fundamentals**
